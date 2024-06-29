@@ -12,6 +12,6 @@ _Implementations done on the Notebook so far:_
     - ROC
     - Precision/Recall/Trade-Off
     - Custom Cross Validation Function
-    - Multiclass Classification with different Classifiers
+    - Multiclass Classification with different Classifiers(SVC, SGDC)
     - Confusion Matrix for MC
       
